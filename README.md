@@ -1,13 +1,38 @@
-# Vno - Jekyll
+# CNTRL — Media Blog
+ 
+This repository contains the source code for the CNTRL blog, built with [Jekyll](https://jekyllrb.com) and based on the **Vno Jekyll** theme.
 
-[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+The goal of this site is to provide a clean, focused space for writing and publishing, with a simple layout and smooth reading experience.
 
-## Live Demo
+---
 
-See [Vno - Jekyll](http://vno.onevcat.com) site and [my blog](http://onevcat.com).
+## Live Site
 
-You can also find some instruction as well as other sites using Vno theme in [this page](http://vno.onevcat.com/2016/02/hello-world-vno/).
+You can view the site here:
 
-## Licence
+- **CNTRL Blog**: https://zhao-lingfeng.github.io/cntr1_website/
 
-Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
+---
+
+## About This Repository
+
+This project:
+
+- Uses **Jekyll** for static site generation  
+- Adopts the **Vno Jekyll** theme as the visual and layout foundation  
+- Customizes text, images, and configuration for the CNTRL brand
+
+You are welcome to fork this repository to study its structure or adapt it for your own personal blog.
+
+---
+
+## Theme Credits
+
+This site is built on top of the **Vno Jekyll** theme:
+
+- Vno Jekyll: https://github.com/onevcat/vno-jekyll  
+- Original Vno (Ghost theme): https://github.com/onevcat/vno  
+- Uno theme by Dale Anthony: https://github.com/daleanthony/uno  
+Special thanks to the original authors for their work on these themes.
+
+---
