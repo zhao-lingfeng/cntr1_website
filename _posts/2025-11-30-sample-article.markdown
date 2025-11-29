@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use This Post
-date: 2025-02-13 20:40:00 +09:00
+date: 2025-11-30 4:40:00 +09:00
 ---
 
 This post serves as a simple example of how your own articles will appear once they are published. You can use it as a reference when creating new content for your site.
