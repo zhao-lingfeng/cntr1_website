@@ -20,12 +20,39 @@
         <div class="navigation-wrapper">
           <div>
             <nav class="cover-navigation cover-navigation--primary">
-              <ul class="navigation">
-                <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="{{site.blog_button.description}}" class="blog-button">{{site.blog_button.title}}</a></li>
-                {% for item in site.nav %}
-                  <li class="navigation__item"><a href="{{item.url}}" target="_blank" title="{{item.description}}">{{item.title}}</a></li>
-                {% endfor %}
-              </ul>
+<ul class="navigation">
+
+  <!-- Blog 按钮（保持不变） -->
+  <li class="navigation__item">
+    <a href="{{ site.baseurl }}/#blog"
+       title="{{ site.blog_button.description }}"
+       class="blog-button">
+      {{ site.blog_button.title }}
+    </a>
+  </li>
+
+  <!-- CN / EN / JP 语言按钮 -->
+  <li class="navigation__item">
+    <a href="{{ site.baseurl }}/cn/" title="中文版">CN</a>
+  </li>
+  <li class="navigation__item">
+    <a href="{{ site.baseurl }}/en/" title="English version">EN</a>
+  </li>
+  <li class="navigation__item">
+    <a href="{{ site.baseurl }}/jp/" title="日本語版">JP</a>
+  </li>
+
+  <!-- 原来的 nav 列表（可选，保持原样） -->
+  {% for item in site.nav %}
+    <li class="navigation__item">
+      <a href="{{ item.url }}" target="_blank" title="{{ item.description }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+</ul>
+
             </nav>
           </div>
           
