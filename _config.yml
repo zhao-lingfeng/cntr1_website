@@ -3,9 +3,9 @@ title: CNTRL
 subtitle: The official blog for cntr1.
 welcome_message: <a href="https://github.com/zhao-lingfeng/cntr1_website" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://github.com/zhao-lingfeng">@zhao-lingfeng</a>
 
-url: "http://vno.onevcat.com"
+url: "https://zhao-lingfeng.github.io/cntr1_website"
 
 permalink: /:year/:month/:title/
 
