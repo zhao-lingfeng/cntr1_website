@@ -5,7 +5,8 @@ welcome_message: <a href="https://github.com/zhao-lingfeng/cntr1_website" target
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="https://github.com/zhao-lingfeng">@zhao-lingfeng</a>
 
-url: "https://zhao-lingfeng.github.io/cntr1_website/"
+url: "https://zhao-lingfeng.github.io"
+baseurl: "/cntr1_website"
 
 permalink: /:year/:month/:title/
 
