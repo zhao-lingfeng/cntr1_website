@@ -5,8 +5,8 @@ subtitle: The official blog for cntr1.
 description: cntr1 is an independent media focusing on<br> style, culture, and creative expression.
 creator: <a href="https://github.com/zhao-lingfeng">@zhao-lingfeng</a>
 
-url: "https://zhao-lingfeng.github.io"
-baseurl: "/cntr1_website"
+url: "https://cntr1.com"
+baseurl: ""
 
 permalink: /:year/:month/:title/
 
